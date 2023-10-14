@@ -19,8 +19,8 @@ img {
     width: 50%;
     height: 50%;
     border-radius: 200px;
-    border: 2px solid;
-    border-color: blueviolet;
+    border: 5px dotted rgb(57, 16, 96);;
+    
 }
 
 a {
